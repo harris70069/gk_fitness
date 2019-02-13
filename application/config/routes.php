@@ -52,3 +52,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
+
+// //這是要呼叫function
+// $route['api_shopping/(:any)'] = 'api_shopping/$1';
+// $route['check/(:any)'] = 'check/$1';
+// $route['console/(:any)'] = 'console/$1';
+// $route['(:any)'] = 'pages/$1';
+
+// //這是讓functiond可以帶一個參數
+// $route['(:any)/(:any)'] = 'pages/$1/$2';
+
+// //在上例中，"pages"類別(class)將被載入。
+// //儘量預設一個路由，否則預設會出現一個404頁面。
+// $route['default_controller'] = 'pages';
+// $route['404_override'] = '';
+// $route['translate_uri_dashes'] = FALSE;
