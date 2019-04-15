@@ -42,9 +42,9 @@
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item <?php echo ($page == 'home')?'active':'';?>">       <a href="./" class="nav-link">首頁</a></li>
-	          <li class="nav-item <?php echo ($page == 'plan')?'active':'';?>">       <a href="./plan" class="nav-link">計畫課程</a></li>
-	          <li class="nav-item <?php echo ($page == 'schedule')?'active':'';?>">   <a href="./schedule" class="nav-link">行程表</a></li>
-	          <li class="nav-item <?php echo ($page == 'article')?'active':'';?>">    <a href="./article" class="nav-link">文章</a></li>
+	          <li class="nav-item <?php echo ($page == 'plan')?'active':'';?>">       <a href="./plan" class="nav-link">最新消息</a></li>
+	          <li class="nav-item <?php echo ($page == 'schedule')?'active':'';?>">   <a href="./schedule" class="nav-link">全國據點</a></li>
+	          <li class="nav-item <?php echo ($page == 'article')?'active':'';?>">    <a href="./article" class="nav-link">聯絡資訊</a></li>
 	          <!-- <li class="nav-item <?php echo ($page == 'home')?'active':'';?>"><a href="coaches.html" class="nav-link">教練介紹</a></li> -->
 	          <!-- <li class="nav-item <?php echo ($page == 'home')?'active':'';?>"><a href="about.html" class="nav-link">關於</a></li> -->
 	          <!-- <li class="nav-item <?php echo ($page == 'home')?'active':'';?>"><a href="contact.html" class="nav-link">Contact</a></li> -->

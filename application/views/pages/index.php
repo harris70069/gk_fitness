@@ -9,7 +9,7 @@
           <div class="row slider-text align-items-center" data-scrollax-parent="true">
 
             <div class="col-md-5 col-sm-12 ftco-animate">
-              <h1 class="mb-4">成吉思汗</h1>
+              <h1 class="mb-4">不用崇拜偶像，做自己的偶像</h1>
               <p class="mb-4 mb-md-5">健身俱樂部 進化綜合格鬥中心</p>
               <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Get Started Now</a></p>
             </div>
@@ -34,18 +34,31 @@
       </div>
     </section>
 
+
+<h1>
+最新消息
+
+</h1>
 <!-- s2 -->
-		<section class="home-slider owl-carousel" style="width: 30%;">
-      <div class="slider-item" style="background-image: url(./assets/images/p1.jpg);" >
-      	<div class="overlay" style="height: 300px;"></div>
+		<section class="home-slider owl-carousel" style="width: 40%;height: 650px">
+    <div class="slider-item" style="background-image: url(./assets/images/p1.jpg);" >
+      	<div class="overlay" ></div>
         <div class="container">
           <div class="row slider-text align-items-center" data-scrollax-parent="true">
+            <div class="col-md-5 col-sm-12 ftco-animate" style="position: relative;top: 180px;">
+                <!-- <h1 class="mb-4">Challenge Yourself</h1> -->
+                
+                <p style="width: 1000%;">地點：成吉思汗新莊館 </p>
+                <p style="width: 1000%;">活動日期：2019年6月22日 </p>
+                <p style="width: 1000%;">報名時間：108年4月1日至108年5月15日截止</p>
+                <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">前往挑戰</a></p>
+              </div>
           </div>
         </div>
       </div>
 
-      <div class="slider-item" style="background-image: url(./assets/images/p1.jpg);">
-      	<div class="overlay"></div>
+      <!-- <div class="slider-item" style="background-image: url(./assets/images/person_1.jpg);">
+      	<div class="overlay" ></div>
         <div class="container">
           <div class="row slider-text align-items-center" data-scrollax-parent="true">
 
@@ -57,7 +70,8 @@
 
           </div>
         </div>
-      </div>
+      </div> -->
+
     </section>
 		
 
